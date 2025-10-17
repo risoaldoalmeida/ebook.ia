@@ -4,23 +4,12 @@
 <a href="https://chat.openai.com/" title="ChatGPT"><img src="https://img.shields.io/badge/ChatGPT-Content%20Creator-00A67E?logo=openai&logoColor=white" alt="ChatGPT"></a>
 </p>
 
--------
-
-<p align="center">
-<img 
-    src="./assets/C:\Users\usuario\Documents\CloneGIT\ebook.ai.jpg"
-    width="400"  
-    />
-</p>
-
 # Projeto EBOOK — DAX JEDI  
 ### Domine a Força das Funções no Power BI
 
 > ⚡ **Sobre o projeto:**  
 > Este eBook foi criado com o objetivo de ensinar, de forma simples e prática, as principais funções DAX utilizadas no Power BI.  
 > Todo o conteúdo foi gerado com o apoio de ferramentas de inteligência artificial e diagramado em PowerPoint, resultando em um material moderno e didático.
-
-📕 **[Clique aqui para ler o eBook em PDF](./output/ebook-dax-jedi.pdf)**  
 
 ---
 
