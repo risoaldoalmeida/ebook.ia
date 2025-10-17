@@ -1,7 +1,4 @@
-<p align="center">
-    <img width="100" src="./assets/banner.png">
 </p>
-
 <p align="center">
 <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi&logoColor=black" alt="Power BI"></a>
 <a href="https://chat.openai.com/" title="ChatGPT"><img src="https://img.shields.io/badge/ChatGPT-Content%20Creator-00A67E?logo=openai&logoColor=white" alt="ChatGPT"></a>
@@ -11,10 +8,9 @@
 
 <p align="center">
 <img 
-    src="./assets/yoda-on-awesome-phone-58za3vr4k4piuw8s.jpg"
+    src="./assets/C:\Users\usuario\Documents\CloneGIT\ebook.ai.jpg"
     width="400"  
-    alt="Yoda meditando sobre código DAX"
-/>
+    />
 </p>
 
 # Projeto EBOOK — DAX JEDI  
