@@ -4,6 +4,8 @@
 <a href="https://chat.openai.com/" title="ChatGPT"><img src="https://img.shields.io/badge/ChatGPT-Content%20Creator-00A67E?logo=openai&logoColor=white" alt="ChatGPT"></a>
 </p>
 
+---
+
 # Projeto EBOOK — DAX JEDI  
 ### Domine a Força das Funções no Power BI
 
@@ -68,17 +70,11 @@
 ## 👨‍💻 Autor
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="./assets/profile.png"
-    />
-    <p>&nbsp;&nbsp;&nbsp;<strong>Risoaldo de Almeida Pereira</strong><br>
+        <p>&nbsp;&nbsp;&nbsp;<strong>Risoaldo de Almeida Pereira</strong><br>
     &nbsp;&nbsp;&nbsp;<a href="https://github.com/risoaldoalmeida">GitHub</a> |
     <a href="https://www.linkedin.com/in/risoaldoalmeida">LinkedIn</a>    
 </p>
 
 ---
 
-⌨️ com 💛 por [Risoaldo Almeida](https://github.com/risoaldoalmeida)
+
