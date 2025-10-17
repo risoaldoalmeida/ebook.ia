@@ -53,7 +53,7 @@
 ## 📚 Materiais do projeto
 
 - 📂 Imagens: `assets/`  
-- 📘 eBook final: `output/ebook-dax-jedi.pdf`  
+- 📘 eBook final: `output/ebook - template.pdf`  
 - 💬 Prompts utilizados: `prompts.txt`
 
 ---
